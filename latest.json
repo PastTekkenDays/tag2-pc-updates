@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "version": "0.0.26",
+  "title": "Tekken Tag Tournament 2 PC \u2014 Installer Preview",
+  "published": "2026-10-01",
+  "notes": "The first installer preview is ready for testing.\n\nInstallation from an Xbox 360 ISO and an already extracted game folder has been tested successfully on the development PC. The launcher opens without CMD or PowerShell and creates desktop and Start menu shortcuts through setup.\n\nCurrent focus: testing on other PCs, menu and audio issues, measuring frame times and input delay, and quality-of-life improvements.\n\nOnline rollback is not implemented. There is no new game update in this announcement.",
+  "packageUrl": "",
+  "sha256": ""
+}
